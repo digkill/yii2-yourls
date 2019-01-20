@@ -1,0 +1,21 @@
+{
+    "name": "edifanoff-yourls-api-client/yii2-yourls",
+    "description": "Client for Yourls",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," edifanoff"," mediarise"," yourls"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Edifanoff",
+            "email": "vitl11@narod.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "edifanoff\\yourls\\": ""
+        }
+    }
+}
